@@ -1,0 +1,11 @@
+# Function checks
+count_filled(1) == 8
+find_quadrant(0, 0, 4, 1, 2) == 1
+
+# Program cases
+1
+1
+  #  #  #
+  #  .  #
+  #  #  #
+Filled: 8
